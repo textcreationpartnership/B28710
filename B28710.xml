@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for renewing the office for finding out and punishing the abuses in silk-dying</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28710</idno><idno type="EEBO-CITATION">99832082</idno>
+  <idno type="VID">198900</idno>
+  <idno type="EEBO-PROQUEST">2240924495</idno>
+  
+            <idno type="STC">Wing R508</idno>
+            <idno type="PROQUEST">99832082</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832082e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198900)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21242:94)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for renewing the office for finding out and punishing the abuses in silk-dying</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Dyers' Company (London, England) --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Silk industry --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Dyes and dyeing --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:198900:1"/>
+            <pb facs="tcp:198900:1"/>
+            <head>Reasons for Renewing the Office for finding out and punishing the Abuses in <hi>Silk-Dying.</hi>
+            </head>
+            <p>THe Abuse in Silk-Dying consists in the addition of weight in the Dy<g ref="char:EOLhyphen"/>ing thereof above what it is of it self being discharged of the Gumme.</p>
+            <p>And this is performed either by Dying it upon the Gumme, which is near four ounces in the pound, and ought to be boyled off before the Silk be Dyed, or by using ponderous and unlawful ingredients in the Dye; which be<g ref="char:EOLhyphen"/>sides the unreasonable addition of weight, both spoiles the lustre and destroys the strength and substance of the Silk.</p>
+            <p>Whereby His Majesty and his good Subjects are cheated, His Majesties Go<g ref="char:EOLhyphen"/>vernment and the Nation dishonoured, our Manufactures of Silk in Forraign parts disesteemed, the trade of the Kingdom in that particular destroyed, and di<g ref="char:EOLhyphen"/>vers families both Silk-men and Dyers in their professions exceedingly injured.</p>
+            <p>These abuses were first brought into this Kingdom by strangers in King <hi>James</hi>'s Raign, witnesse the several Proclamations made both by King <hi>James</hi> and His late Majesty for the suppression thereof, and the zeal of His late Majesty therein.</p>
+            <p>Who in the third of His Raign caused severall Informations to be exhibited against divers Silk-men and Dyers, offenders in this kind, upon whom great Fines were layed to deter others.</p>
+            <p>Afterwards upon the Petition of the Silk-men, praying to be pardoned of what was past; and to be incorporated for the time to come with power to regulate and reform the said abuses, His Majesty granted a pardon accordingly, and a Charter of Corporation to them with the powers desired.7<seg rend="sup">o</seg>. <hi>Car.</hi>
+            </p>
+            <p>But upon complaint afterwards made, that this Charter and power was imploy<g ref="char:EOLhyphen"/>ed to the upholding of the said abuses (they being the persons themselves among, and by whom the Frauds were practised) His Majesty resumed the said Charter.</p>
+            <p>The Company of Dyers likewise pretend unto a power by their Charter to Regulate and Reform the said abuses, by searching and seizing all heavy Dy<g ref="char:EOLhyphen"/>ed Silk, which serves onely for them to demand search-money quarterly, they tol<g ref="char:EOLhyphen"/>lerating and coniveing at those abuses which they pretend to search for, and should cause to be punished.</p>
+            <p>It having been therefore observed, that it was impossible by a bare view (with<g ref="char:EOLhyphen"/>out knowing the weight of the Silk both before and after the Dying) to discover the abuses, and that a search, though duly and sincerely executed was a ve<g ref="char:EOLhyphen"/>ry insufficient expedient to reforme the same; His Majesty after all other means used, and after serious consultation had with the Lords of his Council and o<g ref="char:EOLhyphen"/>thers, in the 14. year of his Reign, erected an Office for trying and weighing of Silk which was gladly embraced by all sorts of Silk-men, Dyers and Weavers, who acknowledged that it was the onely way for a remidy.</p>
+            <p>Unto which Office all persons dying Silk in the City of <hi>London</hi> were obliged to bring their Silk to be viewed, weighed and registred, both before and after Dy<g ref="char:EOLhyphen"/>ing; and in case of suspicion to be tryed by discharging the colour of some part of any parcel, whereby to judge of the whole.</p>
+            <p>Whilest this Office was exercised it wrought a good Reformation, till the ge<g ref="char:EOLhyphen"/>neral distractions of the Nation set all loose, and gave new encouragement for the return of old abuses.</p>
+            <p>It is therefore proposed that an Act be passed to enable His Majesty to erect the like Office again, with a competent fee for the maintenance thereof, with such Regulations and Orders, as either the Parliament, or such as they shall autho<g ref="char:EOLhyphen"/>rize, shall be pleased to constitute.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
